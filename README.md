@@ -68,3 +68,14 @@ pytest
 - Ajouter d'autres outils de recherche derrière la même interface.
 - Conserver les sources et dates de consultation pour rendre les résultats auditables.
 - Ajouter d'autres fournisseurs de recherche derrière la même interface.
+
+## Exemple de résultat
+
+Exemple fictif, uniquement pour illustrer le format; un score ne confirme pas une identité :
+
+```text
+Candidat : [nom retourné par le moteur]
+Score : 85/100
+Sources : [URL d’une page publique]
+Non vérifié : localisation
+```
